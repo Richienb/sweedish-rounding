@@ -1,6 +1,6 @@
 {
     "name": "sweedish-rounding",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "Round a number using Sweedish rounding.",
     "repository": "https://github.com/Richienb/sweedish-rounding.git",
     "author": "Richie Bendall <richiebendall@gmail.com>",
