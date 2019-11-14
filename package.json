@@ -1,8 +1,8 @@
 {
-    "name": "the-module",
+    "name": "sweedish-rounding",
     "version": "0.0.0",
-    "description": "My awesome module.",
-    "repository": "https://github.com/Richienb/the-module.git",
+    "description": "Round a number using Sweedish rounding.",
+    "repository": "https://github.com/Richienb/sweedish-rounding.git",
     "author": "Richie Bendall <richiebendall@gmail.com>",
     "license": "MIT",
     "main": "index.js",
@@ -11,14 +11,21 @@
         "index.d.ts"
     ],
     "engines": {
-        "node": ">=8"
+        "node": ">=4"
     },
     "scripts": {
         "lint": "xo",
         "test": "yarn lint && ava"
     },
-    "keywords": [],
-    "dependencies": {},
+    "keywords": [
+        "round",
+        "sweedish",
+        "math",
+        "number"
+    ],
+    "dependencies": {
+        "round-intervals": "^1.0.0"
+    },
     "devDependencies": {
         "ava": "^2.1.0",
         "eslint-config-richienb": "^0.2.2",

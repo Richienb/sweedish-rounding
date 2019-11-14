@@ -1,41 +1,30 @@
-# The module [![Travis CI Build Status](https://img.shields.io/travis/com/Richienb/the-module/master.svg?style=for-the-badge)](https://travis-ci.com/Richienb/the-module)
+# The module [![Travis CI Build Status](https://img.shields.io/travis/com/Richienb/sweedish-rounding/master.svg?style=for-the-badge)](https://travis-ci.com/Richienb/sweedish-rounding)
 
-My awesome module.
+Round a number using Sweedish rounding.
 
-[![NPM Badge](https://nodei.co/npm/the-module.png)](https://npmjs.com/package/the-module)
+[![NPM Badge](https://nodei.co/npm/sweedish-rounding.png)](https://npmjs.com/package/sweedish-rounding)
 
 ## Install
 
 ```sh
-npm install the-module
+npm install sweedish-rounding
 ```
 
 ## Usage
 
 ```js
-const theModule = require("the-module");
+const sweedishRounding = require("sweedish-rounding");
 
-theModule("unicorns");
-//=> 'unicorns & rainbows'
+sweedishRounding(0.49);
+//=> 0.5
 ```
 
 ## API
 
-### theModule(input, options?)
+### sweedishRounding(number)
 
-#### input
+#### number
 
-Type: `string`
+Type: `number`
 
-Lorem ipsum.
-
-#### options
-
-Type: `object`
-
-##### postfix
-
-Type: `string`\
-Default: `rainbows`
-
-Lorem ipsum.
+The number to round.

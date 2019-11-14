@@ -1,14 +1,14 @@
 /**
- * My awesome module.
- * @param input Lorem ipsum.
- * @param postfix Lorem ipsum.
+ * Round a number using Sweedish rounding.
+ * @param number The number to round.
  * @example
  * ```
- * const theModule = require("the-module");
- * theModule("unicorns");
- * //=> 'unicorns & rainbows'
+ * const sweedishRounding = require("sweedish-rounding");
+ *
+ * sweedishRounding(0.49);
+ * //=> 0.5
  * ```
 */
-declare function theModule(input: string, { postfix }: { postfix?: string }): string;
+declare function sweedishRounding(number: number): number;
 
-export = theModule;
+export = sweedishRounding;
