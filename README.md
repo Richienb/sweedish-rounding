@@ -1,4 +1,4 @@
-# The module [![Travis CI Build Status](https://img.shields.io/travis/com/Richienb/sweedish-rounding/master.svg?style=for-the-badge)](https://travis-ci.com/Richienb/sweedish-rounding)
+# Sweedish rounding [![Travis CI Build Status](https://img.shields.io/travis/com/Richienb/sweedish-rounding/master.svg?style=for-the-badge)](https://travis-ci.com/Richienb/sweedish-rounding)
 
 Round a number using Sweedish rounding.
 
