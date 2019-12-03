@@ -3871,10 +3871,10 @@ rimraf@^2.6.3:
   dependencies:
     glob "^7.1.3"
 
-round-intervals@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/round-intervals/-/round-intervals-1.0.0.tgz#a75e32d45f2685abae82717ffe5b0135c96f1f33"
-  integrity sha512-GDtbUppdcApWOxTPv1N6P76Mm6CzH1Nv2Pg3sk8776fkawWqDG421Rs24w67FDRYiuRGEoV1qigM1IdZWgoeXQ==
+round-intervals@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/round-intervals/-/round-intervals-1.0.1.tgz#963c5cdf721641e6f535d4042498d8bf5832ad6b"
+  integrity sha512-2gdNHGfGMimq6slHECaYgIW6151bwSAeiTEc1wJXPzMGJ0z4qvNydO3HdOII2CFqyL1K8qsUNjFNjKfFeKxgug==
 
 run-async@^2.2.0:
   version "2.3.0"

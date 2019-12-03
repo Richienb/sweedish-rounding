@@ -24,7 +24,7 @@
         "number"
     ],
     "dependencies": {
-        "round-intervals": "^1.0.0"
+        "round-intervals": "^1.0.1"
     },
     "devDependencies": {
         "ava": "^2.1.0",
